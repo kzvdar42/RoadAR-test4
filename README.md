@@ -16,7 +16,7 @@ You can also build a Docker image.
 
 > docker run -p 8000:8888 --name test4 test4
 ```
-Then open the `[localhost:8000](localhost:8000)` and paste the token from the cmd.
+Then open the [localhost:8000](http://localhost:8000/) and paste the token from the cmd.
 
 ## Results
 
