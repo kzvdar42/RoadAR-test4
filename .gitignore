@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#myignores
+*.weights
+docker/
+Dockerfile
+.dockerignore
+data/input.avi
+data/out.avi
