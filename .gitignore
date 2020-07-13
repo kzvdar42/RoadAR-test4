@@ -131,8 +131,5 @@ dmypy.json
 
 #myignores
 *.weights
-docker/
-Dockerfile
-.dockerignore
 data/input.avi
 data/out.avi
